@@ -1,0 +1,110 @@
+*{
+    overflow-x: hidden;
+}
+.body{
+    overflow-x: hidden;
+}
+.gfont{
+    font-size: 18px;
+    font-style: italic;
+    font-weight: 800;
+    
+}
+.icon{
+    color:white
+}
+.icon:hover{
+    color: rgb(0, 0, 0);
+}
+head{
+    color: white;
+}
+.head:hover{
+    color: black;
+}
+.head1{
+    color: aqua;
+}
+.second-page{
+    font-size: 30px;
+    font-family: 'Anton', sans-serif;
+    font-style: italic;   
+}
+.second-pagge{
+    background-color: white;
+    width: 100%;
+    height: 600px;
+}
+
+.second-paragragh{
+    font-size: 15px;
+    font-weight: 400;
+}
+.last-secssion{
+    background-color: #198754 ;
+    width: 100%;
+    height: 610px;
+}
+.connect-with-us{
+    
+    font-family: 'Anton', sans-serif;
+    font-size: 25px;
+    font-style: italic;  
+    color: white;
+    
+}
+.footer{
+    padding-top: 50px;
+    font-size: 25px;
+   
+}
+.sprite-footer{
+    font-size: 18px;
+    font-family: var(--font-family);   
+}
+.sprite-footer:hover{
+    color: black;
+}
+.copy-right{
+    text-align: center;
+    font-size: 17px;
+    font-family: var(--font-family);
+    font-style: italic;
+    color: white;
+    font-weight: 900;
+}
+.javad:hover{
+    color: black;
+}
+.support{
+    text-align: center;
+    font-size: 15px;
+    font-weight: 900;
+    font-style: italic;
+    color: white;
+    font-family: var(--font-family);    
+}
+
+.final:hover{
+    color: black;
+}
+/* .support{
+    display: flex;
+} */
+.support1{
+    border-right: 1px solid;
+   color: white;
+   text-decoration: none;
+    
+}
+.support2{
+   color: white;
+   text-decoration: none;   
+}
+.support1:hover{
+    color: black;
+}
+.support2:hover{
+    color: black;
+}
+
